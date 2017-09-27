@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Trains>
+    <train>
+        <numb>1</numb>
+        <destination>France</destination>
+        <departureTime>15:15:15</departureTime>
+        <arrivalTime>12:12:12</arrivalTime>
+    </train>
+</Trains>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Trains>
+    <train>
+        <numb>1</numb>
+        <destination>France</destination>
+        <departureTime>15:15:15</departureTime>
+        <arrivalTime>12:12:12</arrivalTime>
+    </train>
+    <train>
+        <numb>123</numb>
+        <destination>London</destination>
+        <departureTime>19:19:19</departureTime>
+        <arrivalTime>12:02:01</arrivalTime>
+    </train>
+    <train>
+        <numb>3</numb>
+        <destination>Berlin</destination>
+        <departureTime>04:04:04</departureTime>
+        <arrivalTime>02:02:02</arrivalTime>
+    </train>
+    <train>
+        <numb>555</numb>
+        <destination>Minsk</destination>
+        <departureTime>07:07:07</departureTime>
+        <arrivalTime>03:03:03</arrivalTime>
+    </train>
+</Trains>
